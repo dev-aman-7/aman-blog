@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Production build
+/build
+
+# Environment variables
+.env
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Compiled output
+/dist/
+
+# Logs
+log/
+logs/
+
+# OS-generated files
+*.log
+*.swp
